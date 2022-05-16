@@ -1,1 +1,1 @@
-# PawaniPubudika-Sinhala-character-recognize_KNN-master
+#Sinhala-character-recognize_KNN-master
